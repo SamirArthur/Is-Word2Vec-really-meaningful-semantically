@@ -1,6 +1,6 @@
 # Is Word2Vec really meaningful semantically?
 
-## Approach for testing
+## Approach for testing Word2Vec
 
 What does English language look like if we print it on a 2D map; a clustering based on Word2Vec embeddings? Depending on the quality of the clusters (how much we are able to understand their meaning) we would be able to say 'Word2Vec describes language very well' or 'No Word2Vec is not reliable enough'. To be fair, this clustering actually will test how the model captures 'similarities' (syntagmatic and paradigmatic relations) rather then linear compositions (see the famous example below).
 
